@@ -13,5 +13,3 @@ class NewClass:
     def __str__(cls):
         return cls.word
 
-
-
