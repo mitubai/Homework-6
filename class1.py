@@ -2,7 +2,7 @@ class Hello:
     def __init__(self, str):
         self.str = str
 class NewClass:
-    word = 'KOtokBAs'  # Class-level attribute to store the word
+    word = ''  # Class-level attribute to store the word
 
     @classmethod
     def set_word(cls, word):
